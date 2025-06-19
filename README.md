@@ -142,24 +142,8 @@
 
 ---
 
-## 🏅 **Recent Achievements & Milestones**
 
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor': '#36BCF7', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#FF6B6B', 'lineColor': '#4ECDC4'}}}%%
-timeline
-    title Recent Achievements Timeline
-    2024-Q1 : Built 3 Production Apps
-             : Served 25K+ Users
-    2024-Q2 : Achieved 99.9% Uptime
-             : Generated $200K+ Client Revenue  
-    2024-Q3 : Improved Performance 65%
-             : Completed 15+ Projects
-    2024-Q4 : Zero Critical Bugs
-             : 10+ Happy Client Reviews
-```
-
+<div>
 **📈 Achievement Highlights:**
 - 🏆 **50+ Production Applications** deployed and maintained
 - ⚡ **65% Average Performance Improvement** across all projects  
