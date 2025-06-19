@@ -6,7 +6,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+AVAILABLE+FOR+IMMEDIATE+HIRE;💼+Frontend+%7C+Backend+%7C+Mobile+Expert;🎯+Turning+Ideas+Into+Profitable+Products">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C3E50&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+AVAILABLE+FOR+IMMEDIATE+HIRE;💼+Frontend+%7C+Backend+%7C+Mobile+Expert;🎯+Turning+Ideas+Into+Profitable+Products">
+ 
   <img alt="Typing Animation" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+AVAILABLE+FOR+IMMEDIATE+HIRE;💼+Frontend+%7C+Backend+%7C+Mobile+Expert;🎯+Turning+Ideas+Into+Profitable+Products">
 </picture>
 
