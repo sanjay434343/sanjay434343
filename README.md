@@ -1,16 +1,28 @@
-## Hi there 👋
+# ✨ Sanjay | Web Developer & Creative Coder
 
-<!--
-**sanjay434343/sanjay434343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋  
+I'm Sanjay — a curious and calm mind who enjoys building interactive, meaningful web experiences.  
+From dynamic front-end designs to real-time Firebase apps, I explore the intersection of creativity, functionality, and simplicity.
 
-Here are some ideas to get you started:
+### 🛠️ What I Work With
+- **HTML, CSS, JavaScript**
+- **GSAP, Three.js, Pannellum** – for animations and 3D experiences
+- **Firebase** – for real-time databases, auth, and hosting
+- **API Integration** – weather, books, recipes, and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Exploring
+- AI-integrated interfaces  
+- Smooth mobile-first UI/UX  
+- Personal web projects that tell stories and solve small problems beautifully
+
+### 📁 A Few Project Themes
+- Music players with auto-lyrics  
+- Quiz games with multiplayer logic  
+- Event registration systems  
+- Visual storytelling websites  
+- Smart device control interfaces  
+
+Thanks for stopping by 🌿  
+Feel free to explore, get inspired, or collaborate.
+
+> "Build slow, build kind, build real."  
