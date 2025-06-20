@@ -223,7 +223,5 @@
 <sub>🚀 <strong>Built with passion by Sanjay</strong> | 💼 <strong>Available for hire</strong> | ⚡ <strong>Response time < 24 hours</strong></sub>
 </div>
 
-[![Sanjay GitHub Stats](https://willowy-platypus-fc3cfb.netlify.app/api)](https://willowy-platypus-fc3cfb.netlify.app/api?username=sanjay434343&type=[full|pie|graph|repos|languages]&theme=[theme]
-)
 
 
