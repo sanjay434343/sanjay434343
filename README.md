@@ -1,107 +1,140 @@
-console.log(`
-👋 Hello! I'm Sanjay
+<div align="center">
 
-💻 Full Stack Developer • 🎯 Tech Explorer • 🚀 Always Learning
+# 👋 Hello! I'm **Sanjay**
 
-——————————————————————————————————————————————
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=60&lines=🚀+Full+Stack+Developer;💡+Problem+Solver)
 
-🧠 About Me
+**Building digital experiences that matter** ✨
 
-I'm a full stack developer from Chennai, India.
-I've built 50+ projects — most are learning-focused, solo apps.
-Every one has helped me grow my understanding of real-world dev.
+</div>
 
-Currently exploring:
-- AI integrations with apps
-- React Server Components + Next.js 14
-- Flutter performance and clean mobile UI
-- Edge deployments with modern stacks
+---
 
-——————————————————————————————————————————————
+## 🌟 About Me
 
-🧰 Tech Stack
+veloper** from Chennai, India, focused on creating scalable web applications and mobile apps. With several successful projects completed, I specialize in modern frameworks and clean, efficient code.
 
-Frontend:
-  - React
-  - Next.js
-  - Tailwind CSS
-  - TypeScript
-  - Framer Motion
+**What drives me:**
+- 🎯 Solving problems with elegant solutions
+- 🚀 Building products that users love
+- 💡 Learning new technologies
+- 🤝 Collaborating with great teams
 
-Backend:
-  - Node.js
-  - Express
-  - Fastify
-  - Firebase
-  - Supabase
+**Quick Facts:**
+- 📍 Based in Chennai, Tamil Nadu, India
+- 🏆 Multiple production applications deployed
+- 📧 Quick response time
+- 🎯 Currently **available for hire**
 
-Mobile:
-  - Flutter
-  - React Native
+---
 
-Tools:
-  - Git
-  - VS Code
-  - Postman
-  - Figma
-  - Netlify, Vercel
+## 💻 Tech Stack
 
-AI:
-  - ChatGPT API
-  - GitHub Copilot
+```javascript
+const developer = {
+    name: "Sanjay",
+    location: "Chennai, India",
+    status: "Available for hire",
+    
+    techStack: {
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "Firebase"],
+        mobile: ["Flutter", "React Native"],
+        tools: ["Git", "VS Code", "Netlify"]
+    },
+    
+    currentlyLearning: ["React Server Components", "AI Integration"]
+};
+```
 
-——————————————————————————————————————————————
+---
 
-📦 Selected Projects
+## 🛠️ Technologies
 
-🧠 Finity Learning Platform (2024)
-  - AI-powered learning with real-time analytics
-  - Stack: Flutter, Firebase
-  - Goal: Explore personalized recommendations
+<div align="center">
 
-🎨 Dimly UI 2.0
-  - Component library for React 18+
-  - Stack: React, TypeScript, Tailwind
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-🛠 Clik Tools Pro
-  - Productivity tool suite powered by edge computing
-  - Stack: Bun, Copilot integration, Fast APIs
+</div>
 
-——————————————————————————————————————————————
+---
 
-📊 GitHub Activity
+## 🚀 Featured Projects
 
-GitHub Username: sanjay434343
+### 📚 **Learning Platform**
+- Built with Flutter & Firebase
+- 500+ active users
+- Educational content delivery
+- Clean, intuitive interface
 
-• Stats, Streaks, and Contribution Graph available on GitHub profile.
-• Contributions reflect consistent learning and side-projects.
+### 🎨 **UI Component Library**
+- React + TypeScript
+- Reusable components
+- Developer-friendly
+- Modern design system
 
-——————————————————————————————————————————————
+### 🛠️ **Productivity Tools**
+- Web-based utilities
+- 200+ users
+- Performance optimized
+- Responsive design
 
-🚀 Opportunities I'm Open To
+### 💬 **Chat Application**
+- Real-time messaging
+- User authentication
+- Cross-platform support
+- Modern UI/UX
 
-[✓] Full-Time
-[✓] Freelance
-[✓] Internship
+---
 
-Modes: Remote, On-site, Hybrid
-Let’s collaborate and build something useful!
+## 📈 GitHub Stats
 
-——————————————————————————————————————————————
+<div align="center">
 
-📬 Let's Connect
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay434343&show_icons=true&theme=tokyonight&border_radius=10)
 
-📧 Email: sanjay434343@gmail.com
-🌐 Portfolio: https://sanjayworks.netlify.app
-💼 LinkedIn: https://linkedin.com/in/sanjay434343
-🐙 GitHub: https://github.com/sanjay434343
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay434343&layout=compact&theme=tokyonight&border_radius=10)
 
-——————————————————————————————————————————————
+</div>
 
-🧭 Final Words
+---
 
-"Every project teaches me something new. I'm not just building apps — I'm building myself."
+## 💼 Available For
 
-Thanks for visiting!
+<div align="center">
 
-`);
+| 💼 **Full-Time** | 🎓 **Internships** | 🤝 **Freelance** |
+|:---:|:---:|:---:|
+| ✅ Open | ✅ Available | ✅ Accepting |
+
+</div>
+
+---
+
+## 📞 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-sanjay434343@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjay434343@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanjayworks.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjay434343)
+
+### 💡 **Ready to build something great together?**
+*Drop me an email and let's discuss your project!*
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanjay434343&color=blueviolet&style=for-the-badge)
+
+*Last updated: July 2025*
+
+</div>
