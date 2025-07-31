@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 
-veloper** from Chennai, India, focused on creating scalable web applications and mobile apps. With several successful projects completed, I specialize in modern frameworks and clean, efficient code.
+I'm a passionate **Full Stack Developer** from Pollachi, Coimbatore, Tamil Nadu, India, focused on creating scalable web applications and mobile apps. With several successful projects completed, I specialize in modern frameworks and clean, efficient code.
 
 **What drives me:**
 - 🎯 Solving problems with elegant solutions
@@ -21,7 +21,7 @@ veloper** from Chennai, India, focused on creating scalable web applications and
 - 🤝 Collaborating with great teams
 
 **Quick Facts:**
-- 📍 Based in Chennai, Tamil Nadu, India
+- 📍 Based in Pollachi, Coimbatore, Tamil Nadu, India
 - 🏆 Multiple production applications deployed
 - 📧 Quick response time
 - 🎯 Currently **available for hire**
@@ -33,7 +33,7 @@ veloper** from Chennai, India, focused on creating scalable web applications and
 ```javascript
 const developer = {
     name: "Sanjay",
-    location: "Chennai, India",
+    location: "Pollachi, Coimbatore, India",
     status: "Available for hire",
     
     techStack: {
