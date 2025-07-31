@@ -66,29 +66,33 @@ const developer = {
 
 ## 🚀 Featured Projects
 
-### 📚 **Learning Platform**
-- Built with Flutter & Firebase
-- 500+ active users
-- Educational content delivery
-- Clean, intuitive interface
+### 🛒 **[Ecommerce Platform](https://github.com/sanjay434343/Ecomerce-login-home-model)**
+- Complete e-commerce solution with login system
+- Modern home page design
+- User authentication & session management
+- Responsive design for all devices
+- **Tech Stack:** HTML, CSS, JavaScript
 
-### 🎨 **UI Component Library**
-- React + TypeScript
-- Reusable components
-- Developer-friendly
-- Modern design system
+### 🚀 **[New Project](https://github.com/sanjay434343/newproj)**
+- Modern web application
+- Clean architecture and code structure
+- Optimized performance
+- User-friendly interface
+- **Tech Stack:** React, JavaScript
 
-### 🛠️ **Productivity Tools**
-- Web-based utilities
-- 200+ users
-- Performance optimized
-- Responsive design
+### 🌐 **Portfolio Website**
+- Personal portfolio showcasing projects
+- Interactive design with smooth animations
+- Deployed on Netlify
+- SEO optimized
+- **Tech Stack:** HTML, CSS, JavaScript
 
-### 💬 **Chat Application**
-- Real-time messaging
-- User authentication
-- Cross-platform support
-- Modern UI/UX
+### 🎨 **UI/UX Projects**
+- Various frontend components
+- Modern design patterns
+- Responsive layouts
+- Cross-browser compatibility
+- **Tech Stack:** React, Tailwind CSS
 
 ---
 
