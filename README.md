@@ -14,7 +14,6 @@
 
 I'm a passionate **Full Stack Developer** from Pollachi, Coimbatore, Tamil Nadu, India, focused on creating scalable web applications and mobile apps. With several successful projects completed, I specialize in modern frameworks and clean, efficient code.
 
-![Profile views](https://komarev.com/ghpvc/?username=sanjay434343&color=blue)
 
 **What drives me:**
 - 🎯 Solving problems with elegant solutions
