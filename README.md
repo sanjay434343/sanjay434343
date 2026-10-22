@@ -1,155 +1,104 @@
 <!--
-  Sanjay — GitHub profile README (single file, no assets folder needed)
-  PHOTO: this uses your GitHub avatar. To use your passport photo instead:
-  edit this README on github.com, drag your photo into the editor, copy the
-  https://github.com/user-attachments/... link it makes, and replace PHOTO_URL
-  (search for "PHOTO_URL" below, 1 place).
+  sanjay — github profile README · gen-z / neo-brutalist bento edition
+  single file, no assets folder.
+  PHOTO: uses your GitHub avatar. To use your passport photo: edit this file on
+  github.com, drag the photo into the editor, copy the link it generates, and
+  replace the src on the line marked PHOTO_URL (1 place).
 -->
 
-<div align="center">
+<img src="https://placehold.co/1000x320/ccff00/0a0a0a.png?text=hey%2C+i%27m+sanjay.%5Cnflutter+dev+%C3%97+ai%2Fml&font=oswald" width="100%" alt="hey, i'm sanjay. flutter dev x ai/ml"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=230&section=header&text=Sanjay&fontSize=84&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20AI%2FML%20Integration&descSize=22&descAlignY=60" width="100%" alt="Sanjay header"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=FF4FD8&background=0A0A0A&center=false&vCenter=true&width=1000&height=64&lines=%E2%9C%A6+i+build+apps+where+the+ai+runs+on+your+phone;%E2%9C%A6+offline-first.+privacy-first.+no+cloud+needed.;%E2%9C%A6+30+repos+deep+and+shipping+every+month;%E2%9C%A6+open+to+work+%E2%86%92+flutter+%7C+full+stack+%7C+ai%2Fml" width="100%" alt="typing: i build apps where the ai runs on your phone"/>
 
-<a href="https://github.com/sanjay434343">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=720&height=50&lines=Building+Flutter+apps+where+the+AI+runs+on+your+phone;Offline-first+%C2%B7+Privacy-first+%C2%B7+On-device+AI;30+repos+%C2%B7+new+apps+shipping+every+month;Open+to+work+%E2%80%94+Flutter+%7C+Full+Stack+%7C+AI%2FML" alt="Typing animation"/>
-</a>
+<p>
+<a href="mailto:sanjay434343@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%9F%A2%20open%20to%20work-ccff00?style=for-the-badge&labelColor=0a0a0a" alt="open to work"/></a>
+<a href="https://sanjayworks.netlify.app"><img src="https://img.shields.io/badge/portfolio-%E2%86%97-ff4fd8?style=for-the-badge&labelColor=0a0a0a" alt="portfolio"/></a>
+<a href="mailto:sanjay434343@gmail.com"><img src="https://img.shields.io/badge/email-hire%20me-ffffff?style=for-the-badge&labelColor=0a0a0a" alt="email"/></a>
+<a href="https://github.com/sanjay434343?tab=followers"><img src="https://img.shields.io/github/followers/sanjay434343?style=for-the-badge&labelColor=0a0a0a&color=7c5cff" alt="followers"/></a>
+</p>
 
 <br/>
 
-[![Open to work](https://img.shields.io/badge/OPEN%20TO%20WORK-Flutter%20%7C%20Full%20Stack-22c55e?style=for-the-badge&logo=flutter&logoColor=white)](mailto:sanjay434343@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sanjayworks.netlify.app-36bcf7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanjayworks.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Hire%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjay434343@gmail.com)
-[![Followers](https://img.shields.io/github/followers/sanjay434343?style=for-the-badge&logo=github&color=181717)](https://github.com/sanjay434343?tab=followers)
-
-</div>
-
----
-
-<div align="center">
-
-## 🪪 DEVELOPER PASSPORT
+<img src="https://img.shields.io/badge/01-who_am_i-ccff00?style=for-the-badge&labelColor=0a0a0a" alt="01 who am i"/>
 
 <table>
 <tr>
-<td align="center" valign="top" width="240">
-  <!-- PHOTO_URL: replace the src below with your passport photo link -->
-  <img src="https://github.com/sanjay434343.png?size=400" width="220" alt="Sanjay"/>
-  <br/><sub><code>SJ-2026-FLTR</code></sub>
+<td width="36%" valign="top" align="center">
+<!-- PHOTO_URL: replace the src below with your passport photo link -->
+<img src="https://github.com/sanjay434343.png?size=400" width="100%" alt="sanjay"/>
+<br/>
+<img src="https://img.shields.io/badge/class-flutter_dev-ccff00?style=flat-square&labelColor=0a0a0a" alt="class"/>
+<img src="https://img.shields.io/badge/home-pollachi_%F0%9F%87%AE%F0%9F%87%B3-ff4fd8?style=flat-square&labelColor=0a0a0a" alt="home"/>
+<img src="https://img.shields.io/badge/batch-2026-7c5cff?style=flat-square&labelColor=0a0a0a" alt="batch"/>
+<br/>
+<sub><code>SJ-2026-FLTR</code></sub>
 </td>
-<td align="left" valign="top">
+<td width="64%" valign="top">
 
-<sub><code>NAME</code></sub><br/>
-<b><font size="6">SANJAY</font></b>
+**tl;dr** → i make flutter apps that think on the device.
 
-<sub><code>CLASS</code></sub><br/>
-**Flutter Developer · AI/ML Integration**
+no cloud dependency, no creepy data collection. search that works offline, a memory engine that never uploads your stuff, an expense tracker that reads your bank sms locally.
 
-<sub><code>HOME BASE</code></sub><br/>
-Pollachi · Coimbatore, Tamil Nadu, India 🇮🇳
+📱 **flutter · dart · kotlin** — smooth, polished android apps<br/>
+🤖 **on-device ai/ml** — search, indexing, computer vision (ex-intern @ vvdn technologies)<br/>
+🌐 **web + backend** — react, next.js, node, firebase when the product needs it<br/>
+🎓 **b.sc cs (ai & ml)** · class of 2026<br/>
+🚢 **30 public repos** and counting
 
-<sub><code>EDUCATION</code></sub><br/>
-B.Sc Computer Science (AI & ML) · Class of 2026
-
-<sub><code>EXPERIENCE</code></sub><br/>
-Computer Vision Intern @ VVDN Technologies
-
-<sub><code>STATUS</code></sub><br/>
-🟢 **OPEN TO WORK**
+> `status:` building the next thing. probably an app. probably offline.
 
 </td>
 </tr>
 </table>
 
-```text
-P<IND<SANJAY<<FLUTTER<DEVELOPER<<<<<<<<<<<<
-SJ2026FLT7<IND<<AI<ML<<ONDEVICE<AI<<30REPOS<
-```
+<br/>
 
-</div>
+<img src="https://img.shields.io/badge/02-the_stack-ff4fd8?style=for-the-badge&labelColor=0a0a0a" alt="02 the stack"/>
 
----
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,py,html,css,js,ts,react,nextjs,nodejs,tailwind,git,netlify&perline=15&theme=dark" alt="stack icons"/>
 
-## 🧠 What I do
+<br/>
 
-I build **Flutter apps that think on the device** — offline-first, privacy-first and fast. Search that works without internet, a memory engine that never uploads your data, an expense tracker that reads your bank SMS locally.
+<img src="https://img.shields.io/badge/03-latest_drops-7c5cff?style=for-the-badge&labelColor=0a0a0a" alt="03 latest drops"/>
 
-- 📱 **Flutter / Dart / Kotlin** — polished Android apps with smooth animations
-- 🤖 **On-device AI/ML** — search, indexing and computer vision
-- 🌐 **Web + backend** — React, Next.js, Node.js and Firebase when a product needs it
-- 🚢 **I ship** — 30 public repos and new apps landing every month
+<a href="https://github.com/sanjay434343/Pipit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=Pipit&bg_color=0a0a0a&border_color=ccff00&title_color=ccff00&text_color=ffffff&icon_color=ff4fd8&border_radius=0" width="49%" alt="Pipit"/></a>
+<a href="https://github.com/sanjay434343/Glance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=Glance&bg_color=0a0a0a&border_color=ff4fd8&title_color=ff4fd8&text_color=ffffff&icon_color=ccff00&border_radius=0" width="49%" alt="Glance"/></a>
+<a href="https://github.com/sanjay434343/Carryon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=Carryon&bg_color=0a0a0a&border_color=7c5cff&title_color=a78bfa&text_color=ffffff&icon_color=ccff00&border_radius=0" width="49%" alt="Carryon"/></a>
+<a href="https://github.com/sanjay434343/Minty"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=Minty&bg_color=0a0a0a&border_color=ccff00&title_color=ccff00&text_color=ffffff&icon_color=ff4fd8&border_radius=0" width="49%" alt="Minty"/></a>
+<a href="https://github.com/sanjay434343/Trezo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=Trezo&bg_color=0a0a0a&border_color=ff4fd8&title_color=ff4fd8&text_color=ffffff&icon_color=ccff00&border_radius=0" width="49%" alt="Trezo"/></a>
+<a href="https://github.com/sanjay434343/Clutr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=Clutr&bg_color=0a0a0a&border_color=7c5cff&title_color=a78bfa&text_color=ffffff&icon_color=ccff00&border_radius=0" width="49%" alt="Clutr"/></a>
+<a href="https://github.com/sanjay434343/Toki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=Toki&bg_color=0a0a0a&border_color=ccff00&title_color=ccff00&text_color=ffffff&icon_color=ff4fd8&border_radius=0" width="49%" alt="Toki"/></a>
+<a href="https://github.com/sanjay434343/ReplyWise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=ReplyWise&bg_color=0a0a0a&border_color=ff4fd8&title_color=ff4fd8&text_color=ffffff&icon_color=ccff00&border_radius=0" width="49%" alt="ReplyWise"/></a>
 
----
+<sub>also: <a href="https://github.com/sanjay434343/Pix-AI">Pix-AI</a> · <a href="https://github.com/sanjay434343/Liri">Liri</a> · <a href="https://github.com/sanjay434343/PinMe">PinMe</a> · <a href="https://github.com/sanjay434343/Dimly">Dimly</a> · <a href="https://github.com/sanjay434343/Clik">Clik</a> · <a href="https://github.com/sanjay434343/Finity">Finity</a> · <a href="https://github.com/sanjay434343/AirChat">AirChat</a> · <a href="https://github.com/sanjay434343/fixr">fixr</a> · <a href="https://github.com/sanjay434343?tab=repositories">see all →</a></sub>
 
-## 🛠️ Stack
+<br/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/04-receipts-ccff00?style=for-the-badge&labelColor=0a0a0a" alt="04 receipts"/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,py,html,css,js,ts,react,nextjs,nodejs,tailwind,git,netlify&perline=15" alt="Tech stack"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanjay434343&show_icons=true&hide_border=false&bg_color=0a0a0a&border_color=ccff00&title_color=ccff00&text_color=ffffff&icon_color=ff4fd8&ring_color=ff4fd8&border_radius=0" height="165" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay434343&layout=compact&bg_color=0a0a0a&border_color=ff4fd8&title_color=ff4fd8&text_color=ffffff&border_radius=0" height="165" alt="top languages"/>
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=sanjay434343&background=0A0A0A&border=CCFF00&stroke=333333&ring=FF4FD8&fire=FF4FD8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CCFF00&sideLabels=FFFFFF&dates=9CA3AF&border_radius=0" width="100%" alt="github streak"/>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![On-device AI](https://img.shields.io/badge/On--device%20AI-a78bfa?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-34d399?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay434343&bg_color=0a0a0a&color=ccff00&line=ff4fd8&point=ffffff&area=true&area_color=ff4fd8&hide_border=true&custom_title=commits%20%E2%80%94%20last%2031%20days" width="100%" alt="contribution graph"/>
 
-</div>
+<br/>
 
----
+<img src="https://img.shields.io/badge/05-hit_me_up-ff4fd8?style=for-the-badge&labelColor=0a0a0a" alt="05 hit me up"/>
 
-## 🚀 Latest launches
+**pov:** you need a flutter dev who can also do the ai part. 👀
 
-<div align="center">
+| 💼 full-time | 🎓 internships | 🧑‍💻 freelance |
+|:---|:---|:---|
+| flutter · full stack · ai/ml | open | apps & websites |
+| ✅ open | ✅ open | ✅ accepting |
 
-<a href="https://github.com/sanjay434343/Pipit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=Pipit&theme=tokyonight&border_radius=14&hide_border=true" width="410" alt="Pipit"/></a>
-<a href="https://github.com/sanjay434343/Glance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=Glance&theme=tokyonight&border_radius=14&hide_border=true" width="410" alt="Glance"/></a>
-<a href="https://github.com/sanjay434343/Carryon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=Carryon&theme=tokyonight&border_radius=14&hide_border=true" width="410" alt="Carryon"/></a>
-<a href="https://github.com/sanjay434343/Minty"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=Minty&theme=tokyonight&border_radius=14&hide_border=true" width="410" alt="Minty"/></a>
-<a href="https://github.com/sanjay434343/Trezo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=Trezo&theme=tokyonight&border_radius=14&hide_border=true" width="410" alt="Trezo"/></a>
-<a href="https://github.com/sanjay434343/Clutr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=Clutr&theme=tokyonight&border_radius=14&hide_border=true" width="410" alt="Clutr"/></a>
-<a href="https://github.com/sanjay434343/Toki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=Toki&theme=tokyonight&border_radius=14&hide_border=true" width="410" alt="Toki"/></a>
-<a href="https://github.com/sanjay434343/ReplyWise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjay434343&repo=ReplyWise&theme=tokyonight&border_radius=14&hide_border=true" width="410" alt="ReplyWise"/></a>
+<a href="mailto:sanjay434343@gmail.com"><img src="https://img.shields.io/badge/email-sanjay434343%40gmail.com-ccff00?style=for-the-badge&labelColor=0a0a0a" alt="email"/></a>
+<a href="https://sanjayworks.netlify.app"><img src="https://img.shields.io/badge/portfolio-sanjayworks.netlify.app-ff4fd8?style=for-the-badge&labelColor=0a0a0a" alt="portfolio"/></a>
 
-<sub>More: <a href="https://github.com/sanjay434343/Pix-AI">Pix-AI</a> · <a href="https://github.com/sanjay434343/Liri">Liri</a> · <a href="https://github.com/sanjay434343/PinMe">PinMe</a> · <a href="https://github.com/sanjay434343/Dimly">Dimly</a> · <a href="https://github.com/sanjay434343/Clik">Clik</a> · <a href="https://github.com/sanjay434343/Finity">Finity</a> · <a href="https://github.com/sanjay434343/AirChat">AirChat</a> · <a href="https://github.com/sanjay434343/fixr">fixr</a> · <a href="https://github.com/sanjay434343?tab=repositories">all repos →</a></sub>
+⭐ if one of my apps helped you, a star = free serotonin.
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=sanjay434343&color=7c5cff&style=flat-square&label=profile+views" alt="profile views"/>
 
----
-
-## 📈 By the numbers
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sanjay434343&show_icons=true&theme=tokyonight&border_radius=14&hide_border=true" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay434343&layout=compact&theme=tokyonight&border_radius=14&hide_border=true" height="170" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=sanjay434343&theme=tokyonight&border_radius=14&hide_border=true" width="560" alt="GitHub streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay434343&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
-
-</div>
-
----
-
-## 🤝 Work with me
-
-<div align="center">
-
-| 💼 **Full-time** | 🎓 **Internships** | 🧑‍💻 **Freelance** |
-|:---:|:---:|:---:|
-| Flutter · Full Stack · AI/ML | Open | Apps & websites |
-| ✅ Open | ✅ Open | ✅ Accepting |
-
-### 💬 Got an app idea, a role, or a collab?
-
-[![Email me](https://img.shields.io/badge/Email-sanjay434343%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjay434343@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanjayworks.netlify.app)
-
-⭐ **If one of my apps helps you, a star means a lot.**
-
-<img src="https://komarev.com/ghpvc/?username=sanjay434343&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=120&section=footer" width="100%" alt="footer"/>
-
-</div>
+<img src="https://placehold.co/1000x80/0a0a0a/ccff00.png?text=%E2%9C%A6+built+in+pollachi+%C2%B7+shipped+worldwide+%E2%9C%A6&font=oswald" width="100%" alt="built in pollachi, shipped worldwide"/>
