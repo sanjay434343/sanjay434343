@@ -1,291 +1,185 @@
- <escape><!--
-  SANJAY — Developer Profile
-  Repository: sanjay434343/README.md
-  Visual identity: Terminal Noir / Terracotta
--->
-
-<div align="center">
-
-<img src="https://placehold.co/1000x3/1F1E1D/D97757.png" width="100%" alt=""/>
-
-<br/>
+ <escape><div align="center">
 
 <a href="https://github.com/sanjay434343">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1400&color=D97757&center=true&vCenter=true&width=800&height=48&lines=sanjay.dev;%24+build+things+that+matter;%24+mobile+%2B+systems+%2B+AI;%24+ideas+deserve+good+engineering" alt="Sanjay developer introduction"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1800&color=111111&center=true&vCenter=true&width=760&height=58&lines=Hello%2C+I'm+Sanjay.;I+build+software+for+ideas+worth+pursuing.;Mobile.+Full-stack.+Practical+AI." alt="Hello, I'm Sanjay — Software Developer"/>
 </a>
 
-### SOFTWARE DEVELOPER · PRODUCT ENGINEER · AI/ML EXPLORER
+### SOFTWARE DEVELOPER · PRODUCT ENGINEER · AI/ML
 
-**I build where mobile, full-stack engineering, and practical AI meet.**
+I turn ideas into useful digital products — from the interface people use to the systems that make it work.
 
-I turn ideas into software — from the interface a person touches to the systems that make it work.
-
-<br/>
-
-<a href="https://sanjayworks.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20my%20work-D97757?style=flat-square&labelColor=1F1E1D" alt="Portfolio"/></a>
-&nbsp;
-<a href="https://github.com/sanjay434343?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-Explore%20projects-D97757?style=flat-square&labelColor=1F1E1D" alt="Projects"/></a>
-&nbsp;
-<a href="mailto:sanjay434343@gmail.com"><img src="https://img.shields.io/badge/CONTACT-Start%20a%20conversation-D97757?style=flat-square&labelColor=1F1E1D" alt="Contact"/></a>
-
-<br/><br/>
-
-<img src="https://placehold.co/1000x3/1F1E1D/D97757.png" width="100%" alt=""/>
+[**Explore my work ↗**](https://github.com/sanjay434343?tab=repositories) &nbsp; · &nbsp; [**Portfolio ↗**](https://sanjayworks.netlify.app) &nbsp; · &nbsp; [**Contact ↗**](mailto:sanjay434343@gmail.com)
 
 </div>
 
-## `00. THE THESIS`
+---
 
-> Good software does more than work. It removes friction, makes complex things feel simple, and gives people a reason to come back.
+## I believe good software should feel simple.
 
-I am Sanjay, a software developer focused on building useful digital products across mobile applications, web platforms, backend systems, and AI-powered experiences.
+The best products hide complexity without hiding their value.
 
-My approach is to understand the problem first, choose the right tools, and build toward a solution that is practical to use and maintain.
+I'm Sanjay, a developer working across **mobile applications, full-stack engineering, and practical AI**. I enjoy taking an idea from its first sketch to an implementation that people can actually use.
 
-One area that particularly interests me is **bringing AI closer to the user** — exploring lightweight models and local inference so that useful capabilities can work with less dependence on remote services.
+My particular interest is bringing AI closer to the user — exploring lightweight models, local inference, and applications that can do more with the hardware they already have.
 
-I care about the whole product: how it feels, how it performs, how its components fit together, and whether it solves the problem it was built for.
+I care about the entire product: how it feels, how it performs, how its components fit together, and whether it solves the right problem.
 
-## `01. SYSTEM.IDENTITY`
+## Selected work
 
-```text
-┌─ /about ───────────────────────────────────────────────────┐
-│                                                            │
-│  NAME          Sanjay                                      │
-│  ROLE          Software Developer                          │
-│  BASE          Tamil Nadu, India                           │
-│  EDUCATION     B.Sc. Computer Science — AI & ML            │
-│  CORE          Flutter · Full-Stack · On-Device AI         │
-│  LANGUAGES     Tamil · English · Kannada                   │
-│                                                            │
-│  MINDSET       Product-first. Engineering-driven.          │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-### How I think about building software
-
-- **Problem before technology.** The best architecture is the one that fits the actual requirements.
-- **The user experience is part of the engineering.** Performance, clarity, and predictable behavior matter as much as features.
-- **Constraints are design inputs.** Memory, compute, network availability, and device capabilities shape good technical decisions.
-- **A prototype is the beginning.** Reliable behavior, maintainability, and clear documentation are what make software useful beyond a demo.
-
-## `02. ENGINEERING.RANGE`
-
-<div align="center">
+A collection of product ideas spanning AI, mobile applications, storage, and everyday utilities.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 — Mobile Engineering
+### 01 — Pipit
 
-**Flutter · Dart · Android**
+**On-device AI search**
 
-Cross-platform application development, interface implementation, stateful experiences, and integration with APIs and local data.
+Exploring ways to make information easier to find with AI capabilities designed around local execution.
+
+[Explore Pipit ↗](https://github.com/sanjay434343/Pipit)
 
 </td>
 <td width="50%" valign="top">
 
-### 02 — Full-Stack Systems
+### 02 — Glance
 
-**Node.js · JavaScript · APIs**
+**AI-assisted memory**
 
-Connecting user interfaces, backend logic, data services, authentication, and deployment into cohesive applications.
+Exploring ways to organize and retrieve useful information through AI-assisted workflows.
+
+[Explore Glance ↗](https://github.com/sanjay434343/Glance)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 — Practical AI
+### 03 — Carryon
 
-**Python · AI/ML · Local inference**
+**Private file-storage experience**
 
-Exploring lightweight models, on-device AI, computer vision, quantization, and AI-assisted application workflows.
+A product concept focused on managing digital files through a dedicated mobile interface and storage integrations.
+
+[Explore Carryon ↗](https://github.com/sanjay434343/Carryon)
 
 </td>
 <td width="50%" valign="top">
 
-### 04 — Product Delivery
+### 04 — Minty
 
-**Git · Firebase · Web deployment**
+**Expense tracking**
 
-Taking an idea through implementation, debugging, iteration, integration, and deployment.
+A mobile product concept focused on making everyday spending easier to record and understand.
+
+[Explore Minty ↗](https://github.com/sanjay434343/Minty)
 
 </td>
 </tr>
 </table>
 
-</div>
+### More things I've explored
 
-### Technology map
+[Clutr](https://github.com/sanjay434343/Clutr) · [Trezo](https://github.com/sanjay434343/Trezo) · [Toki](https://github.com/sanjay434343/Toki) · [ReplyWise](https://github.com/sanjay434343/ReplyWise) · [PixAI](https://github.com/sanjay434343/Pix-AI) · [Liri](https://github.com/sanjay434343/Liri) · [Dimly](https://github.com/sanjay434343/Dimly) · [Clik](https://github.com/sanjay434343/Clik) · [Finity](https://github.com/sanjay434343/Finity) · [AirChat](https://github.com/sanjay434343/AirChat) · [Fixr](https://github.com/sanjay434343/fixr)
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,firebase,git,github,linux,netlify&perline=9" alt="Technologies across mobile, web, backend and development"/>
-</p>
+**[Discover all repositories →](https://github.com/sanjay434343?tab=repositories)**
 
-<sub>Technologies shown represent my development areas and interests; proficiency varies by tool and project.</sub>
+<sub>Project descriptions reflect their intended direction; individual repositories provide implementation details and current status.</sub>
 
-## `03. SELECTED.WORK`
+## What I bring to a product
 
-I explore different product problems, from local AI experiences to everyday utilities. The projects below represent the range of ideas I work on.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### `01 / PIPIT`
+### Mobile engineering
 
-**On-device AI search**
+Flutter, Dart, Android, cross-platform interfaces, and application integrations.
 
-Exploring ways to make information easier to find with AI capabilities designed around local execution.
+</td>
+<td width="50%" valign="top">
 
-- **Problem space:** Finding useful information without adding unnecessary friction.
-- **Engineering interest:** Local inference, search workflows, model efficiency, and mobile integration.
-- **Explore:** [Pipit repository →](https://github.com/sanjay434343/Pipit)
+### Full-stack development
 
-### `02 / GLANCE`
+Node.js, JavaScript, web technologies, APIs, backend services, and Firebase.
 
-**On-device AI memory**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-An exploration of AI-assisted memory and making relevant information easier to retrieve.
+### AI & machine learning
 
-- **Problem space:** Helping users return to information when they need it.
-- **Engineering interest:** Information organization, retrieval workflows, and privacy-conscious AI.
-- **Explore:** [Glance repository →](https://github.com/sanjay434343/Glance)
+Lightweight models, local inference, computer vision, and AI-assisted workflows.
 
-### `03 / CARRYON`
+</td>
+<td width="50%" valign="top">
 
-**Private cloud-storage experience**
+### Product thinking
 
-A product concept focused on organizing digital files through a dedicated mobile interface.
+Problem-solving, usability, performance, maintainable architecture, and iterative development.
 
-- **Problem space:** Making personal files accessible and easier to manage.
-- **Engineering interest:** Flutter, metadata management, storage integrations, and file workflows.
-- **Explore:** [Carryon repository →](https://github.com/sanjay434343/Carryon)
-
-### `04 / MINTY`
-
-**Expense tracking**
-
-A mobile product concept focused on helping users understand their everyday spending.
-
-- **Problem space:** Making expense tracking more convenient.
-- **Engineering interest:** Transaction organization, local data, and practical mobile UX.
-- **Explore:** [Minty repository →](https://github.com/sanjay434343/Minty)
-
-### More experiments and products
-
-| Project | Direction |
-| --- | --- |
-| [Clutr](https://github.com/sanjay434343/Clutr) | Storage-cleaning utility |
-| [Trezo](https://github.com/sanjay434343/Trezo) | Explore the project |
-| [Toki](https://github.com/sanjay434343/Toki) | Explore the project |
-| [ReplyWise](https://github.com/sanjay434343/ReplyWise) | Explore the project |
-| [PixAI](https://github.com/sanjay434343/Pix-AI) | AI-focused experiment |
-| [Liri](https://github.com/sanjay434343/Liri) | Music application |
-| [Dimly](https://github.com/sanjay434343/Dimly) | Explore the project |
-| [Clik](https://github.com/sanjay434343/Clik) | Explore the project |
-| [Finity](https://github.com/sanjay434343/Finity) | Explore the project |
-| [AirChat](https://github.com/sanjay434343/AirChat) | Explore the project |
-| [Fixr](https://github.com/sanjay434343/fixr) | Explore the project |
-
-**The complete portfolio:** [Browse all repositories →](https://github.com/sanjay434343?tab=repositories)
-
-*Project descriptions identify product directions, not claims that every feature is complete or production-ready. Repository documentation is the source of truth for implementation details.*
-
-## `04. THE DIFFERENCE`
-
-### I work across boundaries.
-
-A mobile application is not just a screen. It is a collection of decisions about interaction, data, networking, performance, and reliability.
-
-An AI feature is not just a model call. It is a decision about latency, hardware constraints, privacy, and whether the result genuinely improves the product.
-
-A backend is not just an endpoint. It is a contract between systems that must behave predictably.
-
-I enjoy working across these boundaries because they reveal where the real engineering problems live.
-
-```text
-                  THE PRODUCT
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-       EXPERIENCE   SYSTEMS        AI
-          │            │            │
-       Interfaces     APIs      Local models
-       Interaction    Data      Inference
-       Usability      Logic     Efficiency
-          │            │            │
-          └────────────┼────────────┘
-                       │
-                  USEFUL SOFTWARE
-```
-
-## `05. PROOF.OF.WORK`
-
-My background includes hands-on development, technical learning, and collaborative problem-solving.
-
-- **Computer Science:** B.Sc. Computer Science with an AI & ML specialization.
-- **Hackathons:** Winner at a cybersecurity hackathon hosted by KIT College and second place in a web development hackathon.
-- **Computer vision:** Experience associated with a computer vision internship at VVDN Technologies.
-- **IoT learning:** Completed an Infosys Springboard IoT certificate.
-- **Independent development:** Exploring product ideas across Flutter, web development, backend services, and AI/ML.
-
-These experiences shape how I approach problems: investigate the constraints, test the idea, build the implementation, and improve it through iteration.
-
-## `06. CURRENT.FOCUS`
-
-```bash
-$ cat roadmap.txt
-
-[01]  Build thoughtful Flutter applications
-[02]  Strengthen backend and API engineering
-[03]  Explore efficient on-device AI
-[04]  Improve product quality and architecture
-[05]  Turn useful ideas into working software
-```
-
-I'm interested in roles where I can contribute to real products, learn from experienced engineers, and take responsibility for meaningful parts of a system.
-
-**Open to:** Flutter development · Full-stack engineering · Software development · Practical AI/ML projects · Freelance collaborations
-
-## `07. HIRING.INTERFACE`
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### Looking for a developer who thinks beyond the screen?
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,firebase,git,github,linux,netlify&perline=9" alt="Technologies across mobile, frontend, backend, and development tools"/>
 
-If you are building a mobile product, a web platform, a backend service, or an AI-powered experience, I'd be glad to discuss how I can contribute.
+</div>
+
+<sub>These icons represent my development areas and interests; proficiency varies by technology.</sub>
+
+## The details matter.
+
+I approach engineering with a few principles:
+
+- **Understand the problem before choosing the tools.**
+- **Make the experience intuitive, not merely functional.**
+- **Treat performance, memory, and connectivity as real constraints.**
+- **Prefer maintainable solutions over unnecessary complexity.**
+- **Test assumptions, learn from failures, and improve through iteration.**
+
+This is especially important in on-device AI, where model size, latency, memory usage, and hardware limitations directly affect the product experience.
+
+## Beyond the code
+
+- **Education:** B.Sc. Computer Science with an AI & ML specialization.
+- **Hackathons:** Cybersecurity hackathon winner at KIT College; second place in a web development hackathon.
+- **Technical experience:** Computer vision internship experience associated with VVDN Technologies.
+- **IoT:** Completed an Infosys Springboard IoT certificate.
+- **Independent development:** Exploring products across mobile, web, backend systems, and AI/ML.
+
+## What I'm looking for
+
+I'm interested in joining a team where I can contribute to real products, learn from experienced engineers, and take ownership of meaningful technical problems.
+
+**Open to software development roles, Flutter development, full-stack engineering, freelance projects, and collaborations.**
+
+<div align="center">
+
+---
+
+### Have a good problem to solve?
+
+Let's build something useful.
 
 <br/>
 
-<a href="mailto:sanjay434343@gmail.com?subject=Software%20Development%20Opportunity">
-<img src="https://img.shields.io/badge/LET'S%20TALK-Discuss%20an%20opportunity-D97757?style=for-the-badge&labelColor=1F1E1D" alt="Discuss an opportunity"/>
+<a href="mailto:sanjay434343@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Sanjay-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sanjay"/>
+</a>
+<a href="https://sanjayworks.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/sanjay434343?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-111111?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
 <br/><br/>
 
-<a href="https://sanjayworks.netlify.app">Portfolio</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/sanjay434343?tab=repositories">Projects</a>
-&nbsp; · &nbsp;
-<a href="mailto:sanjay434343@gmail.com">Email</a>
-
-<br/><br/>
-
-<img src="https://placehold.co/1000x3/1F1E1D/D97757.png" width="100%" alt=""/>
-
-</div>
-
-```text
-$ exit
-
-Thanks for stopping by.
-
-The best projects start with a good problem.
-Let's build something useful.
-```
-
-<div align="center">
-
-<sub>Designed and built around a simple principle: thoughtful engineering creates better products.</sub>
+<sub>Thoughtful engineering. Useful products. Always learning.</sub>
 
 </div></escape>
