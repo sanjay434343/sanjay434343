@@ -1,7 +1,7 @@
  <escape><div align="center">
 
 <a href="https://github.com/sanjay434343">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1800&color=111111&center=true&vCenter=true&width=760&height=58&lines=Hello%2C+I'm+Sanjay.;I+build+software+for+ideas+worth+pursuing.;Mobile.+Full-stack.+Practical+AI." alt="Hello, I'm Sanjay — Software Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1800&color=000000&center=true&vCenter=true&width=760&height=58&lines=Hello%2C+I'm+Sanjay.;I+build+software+for+ideas+worth+pursuing.;Mobile.+Full-stack.+Practical+AI." alt="Hello, I'm Sanjay — Software Developer"/>
 </a>
 
 ### SOFTWARE DEVELOPER · PRODUCT ENGINEER · AI/ML
