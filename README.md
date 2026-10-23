@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/hero.svg" width="100%" alt="Sanjay — Flutter Developer, On-Device AI, Full-Stack. Open to work."/>
+<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/hero.svg" width="100%" alt="Sanjay — Flutter Developer, On-Device AI, Full-Stack. Open to work."/>
 
 <br/>
 
@@ -10,13 +10,13 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/stats.svg" width="100%" alt="10+ apps shipped, 1st place cybersecurity hackathon, 2nd place web development hackathon, VVDN computer vision internship"/>
+<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/stats.svg" width="100%" alt="10+ apps shipped, 1st place cybersecurity hackathon, 2nd place web development hackathon, VVDN computer vision internship"/>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/h00.svg" width="100%" alt="00 — The 10-second scan"/>
+<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/h00.svg" width="100%" alt="00 — The 10-second scan"/>
 
 <div align="center">
 
@@ -34,18 +34,18 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/h01.svg" width="100%" alt="01 — Flagship builds"/>
+<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/h01.svg" width="100%" alt="01 — Flagship builds"/>
 
 <sub>Every project starts with a constraint. Constraints are where the interesting engineering lives.</sub>
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/sanjay434343/Pipit"><img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/card-pipit.svg" alt="Pipit — universal search that works offline"/></a></td>
-<td width="50%"><a href="https://github.com/sanjay434343/Carryon"><img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/card-carryon.svg" alt="Carryon — cloud storage with no database"/></a></td>
+<td width="50%"><a href="https://github.com/sanjay434343/Pipit"><img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/card-pipit.svg" alt="Pipit — universal search that works offline"/></a></td>
+<td width="50%"><a href="https://github.com/sanjay434343/Carryon"><img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/card-carryon.svg" alt="Carryon — cloud storage with no database"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/sanjay434343?tab=repositories"><img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/card-drobe.svg" alt="Drobe — an AI wardrobe that never goes online"/></a></td>
-<td width="50%"><a href="https://github.com/sanjay434343/Minty"><img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/card-minty.svg" alt="Minty — expense tracking that fills itself in"/></a></td>
+<td width="50%"><a href="https://github.com/sanjay434343?tab=repositories"><img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/card-drobe.svg" alt="Drobe — an AI wardrobe that never goes online"/></a></td>
+<td width="50%"><a href="https://github.com/sanjay434343/Minty"><img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/card-minty.svg" alt="Minty — expense tracking that fills itself in"/></a></td>
 </tr>
 </table>
 
@@ -71,7 +71,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/h02.svg" width="100%" alt="02 — Try it yourself"/>
+<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/h02.svg" width="100%" alt="02 — Try it yourself"/>
 
 <div align="center">
 
@@ -91,7 +91,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/h03.svg" width="100%" alt="03 — How I think"/>
+<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/h03.svg" width="100%" alt="03 — How I think"/>
 
 <div align="center">
 
@@ -110,7 +110,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/h04.svg" width="100%" alt="04 — Engineering range"/>
+<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/h04.svg" width="100%" alt="04 — Engineering range"/>
 
 <div align="center">
 
@@ -151,7 +151,7 @@ Git · Firebase · Netlify<br/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/skills.svg" width="100%" alt="Honest skill levels: Flutter, Dart, Git daily; Firebase, Node.js, Python strong; React, Next.js, TypeScript, Kotlin working; quantization and local LLMs exploring"/>
+<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/skills.svg" width="100%" alt="Honest skill levels: Flutter, Dart, Git daily; Firebase, Node.js, Python strong; React, Next.js, TypeScript, Kotlin working; quantization and local LLMs exploring"/>
 
 <sub>Honest skill levels. Trust is built by saying what you are still learning.</sub>
 
@@ -159,7 +159,7 @@ Git · Firebase · Netlify<br/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/h05.svg" width="100%" alt="05 — Proof of work"/>
+<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/h05.svg" width="100%" alt="05 — Proof of work"/>
 
 <div align="center">
 
@@ -176,7 +176,7 @@ Git · Firebase · Netlify<br/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/h06.svg" width="100%" alt="06 — Live signals"/>
+<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/h06.svg" width="100%" alt="06 — Live signals"/>
 
 <div align="center">
 
@@ -189,7 +189,7 @@ Git · Firebase · Netlify<br/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/h07.svg" width="100%" alt="07 — Currently building"/>
+<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/h07.svg" width="100%" alt="07 — Currently building"/>
 
 ```bash
 $ git log --oneline --since="this month"
@@ -207,15 +207,15 @@ $ cat next.txt
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/h08.svg" width="100%" alt="08 — Let's build"/>
+<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/h08.svg" width="100%" alt="08 — Let's build"/>
 
 <div align="center">
 
 <table>
 <tr>
-<td><a href="mailto:sanjay434343@gmail.com?subject=Opportunity%20for%20Sanjay"><img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/cta-hire.svg" alt="Recruiter or hiring manager: email me"/></a></td>
-<td><a href="mailto:sanjay434343@gmail.com?subject=Project%20Collaboration"><img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/cta-client.svg" alt="Client or founder: tell me the problem"/></a></td>
-<td><a href="https://github.com/sanjay434343?tab=repositories"><img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/cta-dev.svg" alt="Developer or user: open an issue"/></a></td>
+<td><a href="mailto:sanjay434343@gmail.com?subject=Opportunity%20for%20Sanjay"><img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/cta-hire.svg" alt="Recruiter or hiring manager: email me"/></a></td>
+<td><a href="mailto:sanjay434343@gmail.com?subject=Project%20Collaboration"><img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/cta-client.svg" alt="Client or founder: tell me the problem"/></a></td>
+<td><a href="https://github.com/sanjay434343?tab=repositories"><img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/cta-dev.svg" alt="Developer or user: open an issue"/></a></td>
 </tr>
 </table>
 
@@ -242,7 +242,7 @@ $ cat next.txt
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/assets/footer.svg" width="100%" alt="If this profile made you curious, that was the point. Star a repo, try an app, send a message."/>
+<img src="https://raw.githubusercontent.com/sanjay434343/sanjay434343/main/footer.svg" width="100%" alt="If this profile made you curious, that was the point. Star a repo, try an app, send a message."/>
 
 <br/>
 
